@@ -342,22 +342,22 @@ export default {
           .lt {
             position: absolute;
             top: 236px;
-            left: 1504px;
+            left: 1498px;
           }
           .lb {
             position: absolute;
             top: 330px;
-            left: 1504px;
+            left: 1498px;
           }
           .rt {
             position: absolute;
             top: 236px;
-            left: 1720px;
+            left: 1714px;
           }
           .rb {
             position: absolute;
             top: 330px;
-            left: 1720px;
+            left: 1714px;
           }
         }
         .center {
