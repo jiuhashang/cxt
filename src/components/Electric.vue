@@ -83,8 +83,8 @@ export default {
             type: 'line',
             smooth: true,
             lineStyle: {
-              width: 2,
-              color: 'rgb(115, 164, 241)'
+              width: 1,
+              color: 'rgb(151, 255, 248)'
             },
             showSymbol: false,
             // label: {
@@ -113,7 +113,7 @@ export default {
             type: 'line',
             smooth: true,
             lineStyle: {
-              width: 2,
+              width: 1,
               color: 'rgb(228, 159, 255)'
             },
             showSymbol: false,
